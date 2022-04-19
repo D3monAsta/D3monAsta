@@ -1,0 +1,3 @@
+﻿  OOP.cpp
+C:\Users\D3monDev\source\repos\OOP\OOP\OOP.cpp(157,1): warning C4804: '<': unsafe use of type 'bool' in operation
+  OOP.vcxproj -> C:\Users\D3monDev\source\repos\OOP\Debug\OOP.exe
