@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D3monAsta
-- 👀 I’m interested in Programming on C++/Python/Kotlin.
-- 🌱 I’m currently learning C++ and how to talk with people xD
+- 👀 I’m interested in Programming on C++/Python/Kotlin/C#.
+- 🌱 I’m currently learning C++ and how to rtfm.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @D3monDev (Telegram)
 
